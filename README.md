@@ -47,7 +47,7 @@ The ParkingLot Management System is a RESTful API built with Spring Boot that pr
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Saisamhitha123/ParkingLotApplication.git
    cd ParkingLotProject
    ```
 
@@ -75,7 +75,7 @@ spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
 
 
-### Class Diagram/Schema diagram
+### Class Diagram
 
 ![Low Level Design Diagram.png](Low%20Level%20Design%20Diagram.png)
 
